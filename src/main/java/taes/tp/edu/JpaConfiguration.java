@@ -5,6 +5,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @Configuration
 @EnableJpaRepositories("taes.tp.edu.*.repository")
-public class ApplicationConfiguration {
+public class JpaConfiguration {
 
 }
